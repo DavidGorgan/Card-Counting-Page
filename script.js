@@ -12,11 +12,11 @@ for (let i = 0; i < cards.length; i++) {
   cards[i].addEventListener('click', () => {
 
     if (cards[i].classList.contains('lo')) {
-      result--;
+      result++;
     }
 
     else if (cards[i].classList.contains('hi')) {
-      result++;
+      result--;
     }
 
 
