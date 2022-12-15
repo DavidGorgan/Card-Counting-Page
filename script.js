@@ -54,32 +54,3 @@ for (let i = 0; i < cards.length; i++) {
     resultSpace.textContent = result;
   })
 }
-
-// if (cards[i].classList.contains('2')) {
-//   picks[cycle].textContent = '2';
-// } else if (cards[i].classList.contains('3')) {
-//   picks[cycle].textContent = '3';
-// } else if (cards[i].classList.contains('4')) {
-//   picks[cycle].textContent = '4';
-// } else if (cards[i].classList.contains('5')) {
-//   picks[cycle].textContent = '5';
-// } else if (cards[i].classList.contains('6')) {
-//   picks[cycle].textContent = '6';
-// } else if (cards[i].classList.contains('7')) {
-//   picks[cycle].textContent = '7';
-// } else if (cards[i].classList.contains('8')) {
-//   picks[cycle].textContent = '8';
-// } else if (cards[i].classList.contains('9')) {
-//   picks[cycle].textContent = '9';
-// } else if (cards[i].classList.contains('10')) {
-//   picks[cycle].textContent = '10';
-// } else if (cards[i].classList.contains('J')) {
-//   picks[cycle].textContent = 'J';
-// } else if (cards[i].classList.contains('Q')) {
-//   picks[cycle].textContent = 'Q';
-// } else if (cards[i].classList.contains('K')) {
-//   picks[cycle].textContent = 'K';
-// } else if (cards[i].classList.contains('A')) {
-//   picks[cycle].textContent = 'A';
-// }
-
